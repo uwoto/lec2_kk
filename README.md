@@ -1,11 +1,35 @@
 # lec2_kk
 
+|No.|リーダー|サブリーダー|
+|--:|:--|:--|
+|1|~~FK~~|MM|
+|2|KK|TK|
+|3|JJ|**FD**|
+|4|KK|IK|
+|5|RK|TT|
+
+
+|header1|header2|header3|
+|:--|--:|:--:|
+|align left|align right|align center|
+|a|b|c|
+
+~~~ruby
+　class Hoge
+　  def hoge
+　    print 'hoge'
+　  end
+　end
+~~~
+
 ## 子見出し1
 今日はありがとうございます。
 ###子見出し2
 
 
-明日も宜しくお願い致します。
+  https://www.google.co.jp/
+
+~~明日も宜しくお願い致します。~~
 - リスト
   - 入れ子
     - 入れ子2
